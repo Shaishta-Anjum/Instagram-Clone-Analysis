@@ -1,3 +1,4 @@
+![](https://github.com/Shaishta-Anjum/Instagram-Clone-Analysis/blob/main/Logo.png)
 # Instagram Clone Analysis
 In the bustling realm of social media, understanding user behavior and engagement dynamics is paramount for success. Through the Instagram Clone Analysis project, we embarked on a journey to decode the secrets of Instagram's ecosystem, leveraging PostgreSQL to analyze a plethora of key metrics. Let's delve into the captivating world of social engagement and discover the insights waiting to be unearthed.
 
